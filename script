@@ -1,0 +1,303 @@
+-- Farewell Infortality.
+-- Version: 2.82
+-- Instances:
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("ImageLabel")
+local FrameUP = Instance.new("ImageLabel")
+local Ultimatetrollinggui = Instance.new("TextLabel")
+local Madeby = Instance.new("TextLabel")
+local FlameThrower = Instance.new("TextButton")
+local nuke = Instance.new("TextButton")
+local Switcher = Instance.new("TextButton")
+local Topk3k = Instance.new("TextButton")
+local xester = Instance.new("TextButton")
+local Chat = Instance.new("TextButton")
+local sadist = Instance.new("TextButton")
+local mrbyebye = Instance.new("TextButton")
+local arch_angel = Instance.new("TextButton")
+local Brutal = Instance.new("TextButton")
+local mustardgas = Instance.new("TextButton")
+local spiderbot = Instance.new("TextButton")
+local TextButton = Instance.new("TextButton")
+local opne = Instance.new("ImageLabel")
+local open = Instance.new("TextButton")
+--Properties:
+ScreenGui.Parent = game.CoreGui
+
+Frame.Name = "Frame"
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.new(1, 1, 1)
+Frame.BackgroundTransparency = 1
+Frame.Position = UDim2.new(0.323931634, 0, 0.400476784, 0)
+Frame.Size = UDim2.new(0, 509, 0, 292)
+Frame.Visible = false
+Frame.Image = "rbxassetid://2260429633"
+Frame.ImageColor3 = Color3.new(0.262745, 0.262745, 0.262745)
+Frame.ScaleType = Enum.ScaleType.Slice
+Frame.SliceCenter = Rect.new(12, 12, 13, 13)
+Frame.Active = true
+Frame.Draggable = true
+
+FrameUP.Name = "FrameUP"
+FrameUP.Parent = Frame
+FrameUP.BackgroundColor3 = Color3.new(1, 1, 1)
+FrameUP.BackgroundTransparency = 1
+FrameUP.Position = UDim2.new(0.273244768, 0, -0.311643839, 0)
+FrameUP.Size = UDim2.new(0, 239, 0, 100)
+FrameUP.Image = "rbxassetid://2260429633"
+FrameUP.ImageColor3 = Color3.new(0.262745, 0.262745, 0.262745)
+FrameUP.ScaleType = Enum.ScaleType.Slice
+FrameUP.SliceCenter = Rect.new(12, 12, 13, 13)
+
+Ultimatetrollinggui.Name = "Ultimatetrollinggui"
+Ultimatetrollinggui.Parent = Frame
+Ultimatetrollinggui.BackgroundColor3 = Color3.new(1, 1, 1)
+Ultimatetrollinggui.BackgroundTransparency = 1
+Ultimatetrollinggui.Position = UDim2.new(0.309297919, 0, -0.311643839, 0)
+Ultimatetrollinggui.Size = UDim2.new(0, 200, 0, 43)
+Ultimatetrollinggui.Font = Enum.Font.SourceSansBold
+Ultimatetrollinggui.Text = "Ultimate Trolling Gui"
+Ultimatetrollinggui.TextColor3 = Color3.new(1, 1, 1)
+Ultimatetrollinggui.TextScaled = true
+Ultimatetrollinggui.TextSize = 14
+Ultimatetrollinggui.TextWrapped = true
+
+Madeby.Name = "Madeby"
+Madeby.Parent = Frame
+Madeby.BackgroundColor3 = Color3.new(1, 1, 1)
+Madeby.BackgroundTransparency = 1
+Madeby.Position = UDim2.new(0.381404191, 0, -0.22260274, 0)
+Madeby.Size = UDim2.new(0, 125, 0, 28)
+Madeby.Font = Enum.Font.SourceSansBold
+Madeby.Text = "Made by Asunax#5000"
+Madeby.TextColor3 = Color3.new(1, 1, 1)
+Madeby.TextScaled = true
+Madeby.TextSize = 14
+Madeby.TextWrapped = true
+
+FlameThrower.Name = "FlameThrower"
+FlameThrower.Parent = Frame
+FlameThrower.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+FlameThrower.Position = UDim2.new(0.0145211369, 0, 0.767123282, 0)
+FlameThrower.Size = UDim2.new(0, 108, 0, 50)
+FlameThrower.Font = Enum.Font.GothamBold
+FlameThrower.Text = "FlameThrower"
+FlameThrower.TextColor3 = Color3.new(0, 0, 0)
+FlameThrower.TextScaled = true
+FlameThrower.TextSize = 14
+FlameThrower.TextWrapped = true
+FlameThrower.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://hastebin.com/raw/umucihoxih'),true))()
+end)
+
+nuke.Name = "nuke"
+nuke.Parent = Frame
+nuke.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+nuke.Position = UDim2.new(0.0145211369, 0, 0.537671208, 0)
+nuke.Size = UDim2.new(0, 108, 0, 50)
+nuke.Font = Enum.Font.GothamBold
+nuke.Text = "nuke"
+nuke.TextColor3 = Color3.new(0, 0, 0)
+nuke.TextScaled = true
+nuke.TextSize = 14
+nuke.TextWrapped = true
+nuke.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/MB68z86E'),true))()
+end)
+
+Switcher.Name = "Switcher"
+Switcher.Parent = Frame
+Switcher.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+Switcher.Position = UDim2.new(0.0135855954, 0, 0.315068483, 0)
+Switcher.Size = UDim2.new(0, 108, 0, 50)
+Switcher.Font = Enum.Font.GothamBold
+Switcher.Text = "Switcher"
+Switcher.TextColor3 = Color3.new(0, 0, 0)
+Switcher.TextScaled = true
+Switcher.TextSize = 14
+Switcher.TextWrapped = true
+Switcher.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://ghostbin.com/paste/bqum4/raw'),true))()
+end)
+
+Topk3k.Name = "Topk3k"
+Topk3k.Parent = Frame
+Topk3k.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+Topk3k.Position = UDim2.new(0.248838663, 0, 0.767123282, 0)
+Topk3k.Size = UDim2.new(0, 108, 0, 50)
+Topk3k.Font = Enum.Font.GothamBold
+Topk3k.Text = "topk3k"
+Topk3k.TextColor3 = Color3.new(0, 0, 0)
+Topk3k.TextScaled = true
+Topk3k.TextSize = 14
+Topk3k.TextWrapped = true
+Topk3k.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://hastebin.com/raw/bipifiyera'),true))()
+end)
+
+xester.Name = "xester"
+xester.Parent = Frame
+xester.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+xester.Position = UDim2.new(0.248838663, 0, 0.537671208, 0)
+xester.Size = UDim2.new(0, 108, 0, 50)
+xester.Font = Enum.Font.GothamBold
+xester.Text = "xester"
+xester.TextColor3 = Color3.new(0, 0, 0)
+xester.TextScaled = true
+xester.TextSize = 14
+xester.TextWrapped = true
+xester.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/vs8AKa2s'),true))()
+end)
+
+Chat.Name = "Chat"
+Chat.Parent = Frame
+Chat.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+Chat.Position = UDim2.new(0.250374496, 0, 0.315068483, 0)
+Chat.Size = UDim2.new(0, 108, 0, 50)
+Chat.Font = Enum.Font.GothamBold
+Chat.Text = "chat hax"
+Chat.TextColor3 = Color3.new(0, 0, 0)
+Chat.TextScaled = true
+Chat.TextSize = 14
+Chat.TextWrapped = true
+Chat.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/3Jfvubjt'),true))()
+end)
+
+sadist.Name = "sadist"
+sadist.Parent = Frame
+sadist.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+sadist.Position = UDim2.new(0.505700648, 0, 0.767123342, 0)
+sadist.Size = UDim2.new(0, 108, 0, 50)
+sadist.Font = Enum.Font.GothamBold
+sadist.Text = "Sadist"
+sadist.TextColor3 = Color3.new(0, 0, 0)
+sadist.TextScaled = true
+sadist.TextSize = 14
+sadist.TextWrapped = true
+sadist.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/3Jfvubjt'),true))()
+end)
+
+mrbyebye.Name = "mrbyebye"
+mrbyebye.Parent = Frame
+mrbyebye.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+mrbyebye.Position = UDim2.new(0.759195745, 0, 0.767123342, 0)
+mrbyebye.Size = UDim2.new(0, 108, 0, 50)
+mrbyebye.Font = Enum.Font.GothamBold
+mrbyebye.Text = "mrbyebye"
+mrbyebye.TextColor3 = Color3.new(0, 0, 0)
+mrbyebye.TextScaled = true
+mrbyebye.TextSize = 14
+mrbyebye.TextWrapped = true
+mrbyebye.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/nCH0tN9u'),true))()
+end)
+
+arch_angel.Name = "arch_angel"
+arch_angel.Parent = Frame
+arch_angel.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+arch_angel.Position = UDim2.new(0.506072223, 0, 0.537671208, 0)
+arch_angel.Size = UDim2.new(0, 108, 0, 50)
+arch_angel.Font = Enum.Font.GothamBold
+arch_angel.Text = "arch angel"
+arch_angel.TextColor3 = Color3.new(0, 0, 0)
+arch_angel.TextScaled = true
+arch_angel.TextSize = 14
+arch_angel.TextWrapped = true
+arch_angel.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/uYtky2Xg'),true))()
+end)
+
+Brutal.Name = "Brutal"
+Brutal.Parent = Frame
+Brutal.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+Brutal.Position = UDim2.new(0.759952366, 0, 0.537671208, 0)
+Brutal.Size = UDim2.new(0, 108, 0, 50)
+Brutal.Font = Enum.Font.GothamBold
+Brutal.Text = "brutal overlord"
+Brutal.TextColor3 = Color3.new(0, 0, 0)
+Brutal.TextScaled = true
+Brutal.TextSize = 14
+Brutal.TextWrapped = true
+Brutal.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/Eg2rQUVg'),true))()
+end)
+
+mustardgas.Name = "mustard gas"
+mustardgas.Parent = Frame
+mustardgas.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+mustardgas.Position = UDim2.new(0.760014176, 0, 0.315068483, 0)
+mustardgas.Size = UDim2.new(0, 108, 0, 50)
+mustardgas.Font = Enum.Font.GothamBold
+mustardgas.Text = "mustard gas"
+mustardgas.TextColor3 = Color3.new(0, 0, 0)
+mustardgas.TextScaled = true
+mustardgas.TextSize = 14
+mustardgas.TextWrapped = true
+mustardgas.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/sg2WG4Y8'),true))()
+end)
+
+spiderbot.Name = "spider bot"
+spiderbot.Parent = Frame
+spiderbot.BackgroundColor3 = Color3.new(0.0980392, 0.882353, 0.45098)
+spiderbot.Position = UDim2.new(0.506681502, 0, 0.315068483, 0)
+spiderbot.Size = UDim2.new(0, 108, 0, 50)
+spiderbot.Font = Enum.Font.GothamBold
+spiderbot.Text = "spider bot"
+spiderbot.TextColor3 = Color3.new(0, 0, 0)
+spiderbot.TextScaled = true
+spiderbot.TextSize = 14
+spiderbot.TextWrapped = true
+spiderbot.MouseButton1Click:connect(function()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/x7Fie8Ub'),true))()
+end)
+
+TextButton.Parent = Frame
+TextButton.BackgroundColor3 = Color3.new(0.262745, 0.262745, 0.262745)
+TextButton.BorderColor3 = Color3.new(0, 0, 0)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.897838891, 0, 0.0308219176, 0)
+TextButton.Size = UDim2.new(0, 37, 0, 43)
+TextButton.Font = Enum.Font.GothamBold
+TextButton.Text = "X"
+TextButton.TextColor3 = Color3.new(1, 0, 0.0156863)
+TextButton.TextScaled = true
+TextButton.TextSize = 14
+TextButton.TextWrapped = true
+TextButton.MouseButton1Click:connect(function()
+	Frame.Visible = false
+	opne.Visible = true
+end)
+
+opne.Name = "opne"
+opne.Parent = ScreenGui
+opne.BackgroundColor3 = Color3.new(1, 1, 1)
+opne.BackgroundTransparency = 1
+opne.Position = UDim2.new(-0.012820513, 0, 0.615017891, 0)
+opne.Size = UDim2.new(0, 102, 0, 43)
+opne.Image = "rbxassetid://2260429633"
+opne.ImageColor3 = Color3.new(0.2, 0.0431373, 1)
+opne.ScaleType = Enum.ScaleType.Slice
+opne.SliceCenter = Rect.new(12, 12, 13, 13)
+
+open.Name = "open"
+open.Parent = opne
+open.BackgroundColor3 = Color3.new(1, 1, 1)
+open.BackgroundTransparency = 1
+open.Position = UDim2.new(0.145780042, 0, 0, 0)
+open.Size = UDim2.new(0, 87, 0, 43)
+open.Font = Enum.Font.SourceSans
+open.Text = "Open"
+open.TextColor3 = Color3.new(0, 0, 0)
+open.TextScaled = true
+open.TextSize = 14
+open.TextWrapped = true
+
+-- Scripts:
+open.MouseButton1Click:connect(function()
+	Frame.Visible = true
+	opne.Visible = false
+end)
